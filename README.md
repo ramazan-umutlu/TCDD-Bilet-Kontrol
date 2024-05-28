@@ -1,5 +1,7 @@
 # TCDD-Bilet-Kontrol
 
+Eğitim amaçlıdır. Slack webhook ve isteğinin API kullanımı.
+
 Node.js ile TCDD API'si üzerinden tren bileti sorgulaması yapan ve sonuçları Slack kanalına bildiren bot.
 
 ## Özellikler
